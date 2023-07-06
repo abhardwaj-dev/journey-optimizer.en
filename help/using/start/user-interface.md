@@ -35,7 +35,7 @@ You can find below the full list of services and capabilities available in the l
 
 **Home**
 
-[!DNL Journey Optimizer] home page contains key links and resources to start. The **[!UICONTROL Recents]** list provides shortcuts to the recently created events and journeys. This list shows their creation and modification dates and status.
+[!DNL Journey Optimizer] home page contains key links and resources to start. The **[!UICONTROL Recents]** list provides shortcuts to the recently created events and journeys. This list shows their creation, modification dates and status.
 
 **[!UICONTROL JOURNEY MANAGEMENT]**
 
@@ -45,9 +45,9 @@ You can find below the full list of services and capabilities available in the l
         
 **[!UICONTROL DECISION MANAGEMENT]**
 
-* **[!UICONTROL Offers]** - Access your recent sources and datasets from this menu. Use this section to create offers. [Learn more](../offers/offer-library/creating-personalized-offers.md)
+* **[!UICONTROL Offers]** - Use this section to create offers. [Learn more](../offers/offer-library/creating-personalized-offers.md)
 
-* **[!UICONTROL Components]** - Create placements, rules, and tags. [Learn more](../offers/offer-library/key-steps.md)
+* **[!UICONTROL Components]** - Create placements, rules, and collection qualifiers. [Learn more](../offers/offer-library/key-steps.md)
 
 **[!UICONTROL CONTENT MANAGEMENT]**
 
@@ -85,7 +85,7 @@ You can find below the full list of services and capabilities available in the l
 
 ## In-product use cases {#in-product-uc}
 
-From [!DNL Adobe Journey Optimizer] home page, product use cases provide a quick inputs to create a customer journey.
+From the [!DNL Adobe Journey Optimizer] home page, product use cases provide quick inputs to create a customer journey.
 
 ![](assets/use-cases-home.png)
 
