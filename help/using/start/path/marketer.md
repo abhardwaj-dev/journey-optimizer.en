@@ -8,7 +8,7 @@ exl-id: 34304142-3ee8-4081-94b9-e914968c75ba
 ---
 # Get started for Marketers {#get-started-marketers}
 
-As a **Marketer** or a **Journey Practicionner**, you are responsible for creating offers and journeys and designing content. You can start working with [!DNL Adobe Journey Optimizer] once the [System Administrator](administrator.md) and the [Data Engineer](data-engineer.md) granted you access and prepared your environment.
+As a **Marketer** or a **Journey Practitioner**, you are responsible for creating offers and journeys and designing content. You can start working with [!DNL Adobe Journey Optimizer] once the [System Administrator](administrator.md) and the [Data Engineer](data-engineer.md) granted you access and prepared your environment.
 
 Refer to the following sections to set up your first journey, add offers and assets, and send messages:
 
