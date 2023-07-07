@@ -41,9 +41,9 @@ To configure a timeout for an event, follow these steps:
 
     ![](assets/event-timeout.png)
 
-In this example, the journey sends a first welcome push to a customer. It then sends a meal discount push only if the customer enters the restaurant within the next day. We therefore configured the restaurant event with a 1-day timeout:
+In this example, the journey sends a first welcome email to a customer. It then sends a meal discount email only if the customer enters the restaurant within the next day. We therefore configured the restaurant event with a 1-day timeout:
 
-* If the restaurant event is received less than 1 day after the welcome push, the meal discount push activity is sent.
+* If the restaurant event is received less than 1 day after the welcome email, the meal discount email activity is sent.
 * If no restaurant event is received within the next day, the person flows through the timeout path.
 
 Note that if you want to configure a timeout on multiple events positioned after a **[!UICONTROL Wait]** activity, you need to configure the timeout on one of these events only.
