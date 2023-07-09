@@ -35,7 +35,7 @@ Here are the first steps to configure a new event:
 
     >[!NOTE]
     >
-    >Do not use spaces or special characters. Do not use more than 30 characters.
+    >Do not use spaces or special characters in the name of your event. Do not use more than 30 characters. Use camel case in the name as best practice.
 
 1. In the **[!UICONTROL Type]** field, choose **Unitary**.
 
