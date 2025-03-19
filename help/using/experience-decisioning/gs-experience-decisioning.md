@@ -32,11 +32,6 @@ Experience Decisioning simplifies personalization by offering a centralized cata
 
 These decision items are seamlessly integrated into a wide range of inbound surfaces through the new code-based experience channel, now accessible within Journey Optimizer campaigns.
 
-**Limitations:**
-
-* Decision policies are available for use in code-based experience campaigns only.
-* For now, frequency capping is not available in Experience Decisioning.
-
 ## Experience Decisioning key steps {#steps}
 
 The main steps to work with Experience Decisioning are as follows:
