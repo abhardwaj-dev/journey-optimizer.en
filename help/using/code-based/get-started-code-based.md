@@ -77,6 +77,8 @@ When to use the code-based channel rather than the other [!DNL Journey Optimizer
 
 * You can also leverage the code-based channel on native mobile applications as an alternative to the in-app channel if you want to modify the content inside your native app instead of showing modals, popups or overlays.
 
+* You can use code-based channel anytime you want to integrate AJO Decisioning with your digital channels (even if they are accessible via a web browser) or non-digital channels.
+
 ### Code-based vs. web channel {#code-based-vs-web}
 
 To execute web use cases, you can use either the web channel or code-based experience, but depending on your context one would be more appropriate than the other. The main differences are listed below so you can make an informed decision on what to use, and when.
